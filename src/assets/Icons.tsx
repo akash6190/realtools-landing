@@ -1,4 +1,5 @@
 export { ReactComponent as LogoSvg } from "./logo-text.svg";
+export { ReactComponent as LogoNoTextSvg } from "./logo.svg";
 export { ReactComponent as LogoPrimarySvg } from "./logo-primary.svg";
 export { ReactComponent as GeoSvg } from "./geo.svg";
 export { ReactComponent as OccupancySvg } from "./occupancy.svg";
@@ -16,4 +17,6 @@ export { ReactComponent as LinkedinSvg } from "./linkedin.svg";
 export { ReactComponent as TwitterSvg } from "./twitter.svg";
 export { ReactComponent as InstaSvg } from "./insta.svg";
 export { ReactComponent as ChevronDownSvg } from "./chevron-down.svg";
-export { ReactComponent as GlobwSvg } from "./globe.svg";
+export { ReactComponent as GlobeSvg } from "./globe.svg";
+export { ReactComponent as BannerSvg } from "./banner.svg";
+export { ReactComponent as NotFoundSvg } from "./not-found.svg";

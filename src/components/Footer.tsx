@@ -5,7 +5,7 @@ import {
   FBSvg,
   FooterBg1Svg,
   FooterBg2Svg,
-  GlobwSvg,
+  GlobeSvg,
   InstaSvg,
   LinkedinSvg,
   LogoPrimarySvg, TwitterSvg
@@ -85,7 +85,7 @@ const Footer: React.FC<FooterProps> = ({ small = false }) => {
           </div>
           <Menu>
             <Menu.Button className="px-4 py-2 rounded-md bg-white border-[#E8EFFF] border w-full gap-2 flex items-center">
-              <GlobwSvg />
+              <GlobeSvg />
               <div className="flex-1 text-left">English</div>
               <ChevronDownSvg />
             </Menu.Button>
